@@ -1,5 +1,7 @@
 # Beach Invader Game
 
+You're a CAPYBARA! Your enemies are PELICANS!
+
 Welcome to Beach Invader! This is a simple and exciting space invader game built using the Pygame library in Python. Defend your beach against incoming invaders by shooting them down and scoring points.
 
 ## Instructions
